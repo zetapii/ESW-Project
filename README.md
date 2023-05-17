@@ -6,4 +6,3 @@
 * pid - contains the Arduino code required to run the PID controller and has to uploaded to the arduino
 * CameraWebServer - contains the code to run the ESP-32 Cam and streams the video on local area network.
 
-The website is globally hosted on [this link](https://pid-control-of-dc-motor-production.up.railway.app/) via Railway.
